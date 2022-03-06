@@ -1,1 +1,1 @@
-# Core Machine Learning Algorithms with Tensor Flow
+# Core Machine Learning and AI Algorithms with Tensor Flow
